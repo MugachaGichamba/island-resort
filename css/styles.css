@@ -1,17 +1,22 @@
 h1 {
-  font-style: oblique;
-  font-family: fantasy;
-  color: blue;
+  font-weight: bold;
+  font-family: Island;
+  color: white;
   text-align: center;
 }
 h2 {
   font-family: sans-serif;
-  color: red;
+  color: white;
 }
 
 body {
   text-align: center;
+  background-color: black;
 }
 ul{
   list-style-type: none;
+}
+
+li {
+  margin-bottom: 30px;
 }
