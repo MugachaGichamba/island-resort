@@ -1,4 +1,4 @@
-# {Island Resort}
+Island Resort
 #### {island stuff}, {6/02/2019}
 #### By **{List of contributors}**
 ## Description
