@@ -1,0 +1,17 @@
+h1 {
+  font-style: oblique;
+  font-family: fantasy;
+  color: blue;
+  text-align: center;
+}
+h2 {
+  font-family: sans-serif;
+  color: red;
+}
+
+body {
+  text-align: center;
+}
+ul{
+  list-style-type: none;
+}
